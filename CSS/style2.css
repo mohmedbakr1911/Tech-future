@@ -1,0 +1,36 @@
+header
+{
+    background-image: linear-gradient(180deg , #c4b6fd, #93acfc);
+}
+.btn-blue
+{
+    color: #0a58ca;
+    font-size: 60px;
+}
+.p-f
+{
+    font-size: 18px;
+}
+.icons
+{
+    width: 32px;
+    color: blue;
+    height: 32px;
+    background-color: aliceblue;
+}
+.nav-tabs .nav-link.active 
+{
+    border: none;
+    background-color: #0a58ca;
+}
+.nav-tabs 
+{
+    border: none;
+}
+.foot{
+
+    background-color: #93acfc;
+}
+.foot:hover{
+    background-color: #0a58ca;
+}
